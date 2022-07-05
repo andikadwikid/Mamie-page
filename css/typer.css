@@ -1,0 +1,15 @@
+#slogan {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10%;
+    color: #fff;
+}
+
+#slogan span {
+    color: #ff0
+}
+
+#slogan span.selected {
+    background: #09f;
+    color: #fff;
+}
